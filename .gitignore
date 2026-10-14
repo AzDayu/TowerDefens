@@ -1,0 +1,60 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE caches and generated solution/project files
+.vs/
+.idea/
+.consulo/
+.gradle/
+/ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# Generated debug metadata
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity-generated Rider integration
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Unity crash and build output
+/sysinfo.txt
+*.apk
+*.aab
+*.app
+/crashlytics-build.properties
+
+# Local secrets (keep example configuration files trackable)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local working files
+/work/

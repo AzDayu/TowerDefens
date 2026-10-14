@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "canvas": [
+    1254,
+    1254
+  ],
+  "grid": [
+    2,
+    2
+  ],
+  "cell": [
+    627,
+    627
+  ],
+  "frameOrder": "top-left, top-right, bottom-left, bottom-right",
+  "coordinateSystem": "frame-local normalized coordinates, origin top-left; Unity pivot y=1-y",
+  "monsters": [
+    {
+      "type": "normal",
+      "label": "일반형 고블린",
+      "description": "곤봉을 든 기본 무리형",
+      "idle": "monster-normal-idle-v1.png",
+      "sheet": "monster-normal-walk-2x2-v1.png",
+      "fps": 8,
+      "previewSize": 210,
+      "pivots": [
+        [
+          0.48,
+          0.7
+        ],
+        [
+          0.41,
+          0.7
+        ],
+        [
+          0.5,
+          0.61
+        ],
+        [
+          0.455,
+          0.61
+        ]
+      ]
+    },
+    {
+      "type": "fast",
+      "label": "고속형 척후병",
+      "description": "스카프와 단검을 갖춘 가벼운 고블린",
+      "idle": "monster-fast-idle-v1.png",
+      "sheet": "monster-fast-walk-2x2-v1.png",
+      "fps": 12,
+      "previewSize": 195,
+      "pivots": [
+        [
+          0.54,
+          0.62
+        ],
+        [
+          0.47,
+          0.62
+        ],
+        [
+          0.54,
+          0.62
+        ],
+        [
+          0.47,
+          0.62
+        ]
+      ]
+    },
+    {
+      "type": "heavy",
+      "label": "중장형 오크",
+      "description": "방패와 갑옷을 갖춘 중장형",
+      "idle": "monster-heavy-idle-v1.png",
+      "sheet": "monster-heavy-walk-2x2-v1.png",
+      "fps": 6,
+      "previewSize": 245,
+      "pivots": [
+        [
+          0.52,
+          0.58
+        ],
+        [
+          0.46,
+          0.58
+        ],
+        [
+          0.52,
+          0.5
+        ],
+        [
+          0.47,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "note": "Animation and frame pivots are visual draft values; this file does not automatically configure Unity sprite slicing or Animator."
+}

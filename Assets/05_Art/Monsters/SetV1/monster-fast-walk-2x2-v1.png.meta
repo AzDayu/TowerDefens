@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 89a6a0cc733d39d41afa5ac8666f01a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5163080692510884118
+    second: monster-fast-walk-2x2-v1_0
+  - first:
+      213: -9112673050798334606
+    second: monster-fast-walk-2x2-v1_1
+  - first:
+      213: 8211140896235731374
+    second: monster-fast-walk-2x2-v1_2
+  - first:
+      213: -3558155710061619617
+    second: monster-fast-walk-2x2-v1_3
+  - first:
+      213: 4932846010773655326
+    second: monster-fast-walk-2x2-v1_4
+  - first:
+      213: -6908653382939171553
+    second: monster-fast-walk-2x2-v1_5
+  - first:
+      213: -2493123804898546403
+    second: monster-fast-walk-2x2-v1_6
+  - first:
+      213: 5723720311861217456
+    second: monster-fast-walk-2x2-v1_7
+  - first:
+      213: 6622612918593864495
+    second: monster-fast-walk-2x2-v1_8
+  - first:
+      213: -1120063737532189509
+    second: monster-fast-walk-2x2-v1_9
+  - first:
+      213: -6104496173644879118
+    second: monster-fast-walk-2x2-v1_10
+  - first:
+      213: 736044673774938210
+    second: monster-fast-walk-2x2-v1_11
+  - first:
+      213: -8173204903732274658
+    second: monster-fast-walk-2x2-v1_12
+  - first:
+      213: -2626444026044566031
+    second: monster-fast-walk-2x2-v1_13
+  - first:
+      213: 4953962052725829150
+    second: monster-fast-walk-2x2-v1_14
+  - first:
+      213: 1215900901982191116
+    second: monster-fast-walk-2x2-v1_15
+  - first:
+      213: 4668995037407211119
+    second: monster-fast-walk-2x2-v1_16
+  - first:
+      213: 6423720963063540522
+    second: monster-fast-walk-2x2-v1_17
+  - first:
+      213: -1725182085729911289
+    second: monster-fast-walk-2x2-v1_18
+  - first:
+      213: 8032470275379450307
+    second: monster-fast-walk-2x2-v1_19
+  - first:
+      213: 3107263969508319503
+    second: monster-fast-walk-2x2-v1_20
+  - first:
+      213: -9133414239635932696
+    second: monster-fast-walk-2x2-v1_21
+  - first:
+      213: 6758890992833244753
+    second: monster-fast-walk-2x2-v1_22
+  - first:
+      213: 2603745013881882667
+    second: monster-fast-walk-2x2-v1_23
+  - first:
+      213: -5775293190540352921
+    second: monster-fast-walk-2x2-v1_24
+  - first:
+      213: 2151014844491695525
+    second: monster-fast-walk-2x2-v1_25
+  - first:
+      213: 3200294792001501120
+    second: monster-fast-walk-2x2-v1_26
+  - first:
+      213: 7135754599186628319
+    second: monster-fast-walk-2x2-v1_27
+  - first:
+      213: 2073285250384042471
+    second: monster-fast-walk-2x2-v1_28
+  - first:
+      213: -649177937644024359
+    second: monster-fast-walk-2x2-v1_29
+  - first:
+      213: 2034205536410172282
+    second: monster-fast-walk-2x2-v1_30
+  - first:
+      213: -4665685361880372014
+    second: monster-fast-walk-2x2-v1_31
+  - first:
+      213: 8732996510606978626
+    second: monster-fast-walk-2x2-v1_32
+  - first:
+      213: -2662436858003369105
+    second: monster-fast-walk-2x2-v1_33
+  - first:
+      213: -196668097026212673
+    second: monster-fast-walk-2x2-v1_34
+  - first:
+      213: 2586619932271461596
+    second: monster-fast-walk-2x2-v1_35
+  - first:
+      213: -8689200128839548124
+    second: monster-fast-walk-2x2-v1_36
+  - first:
+      213: 598368970442829876
+    second: monster-fast-walk-2x2-v1_37
+  - first:
+      213: 6972878340300125748
+    second: monster-fast-walk-2x2-v1_38
+  - first:
+      213: 6212156416276629290
+    second: monster-fast-walk-2x2-v1_39
+  - first:
+      213: -3986759483513569943
+    second: monster-fast-walk-2x2-v1_40
+  - first:
+      213: 8614284089811361328
+    second: monster-fast-walk-2x2-v1_41
+  - first:
+      213: 5432023987025638450
+    second: monster-fast-walk-2x2-v1_42
+  - first:
+      213: -5272620199842937989
+    second: monster-fast-walk-2x2-v1_43
+  - first:
+      213: -6930974649381577015
+    second: monster-fast-walk-2x2-v1_44
+  - first:
+      213: 4073399472072442492
+    second: monster-fast-walk-2x2-v1_45
+  - first:
+      213: 3441788798677394710
+    second: monster-fast-walk-2x2-v1_46
+  - first:
+      213: 7109120056333175108
+    second: monster-fast-walk-2x2-v1_47
+  - first:
+      213: 6697346179007415560
+    second: monster-fast-walk-2x2-v1_48
+  - first:
+      213: 6943737491954409613
+    second: monster-fast-walk-2x2-v1_49
+  - first:
+      213: 299434837945871337
+    second: monster-fast-walk-2x2-v1_50
+  - first:
+      213: 4606733512631144244
+    second: monster-fast-walk-2x2-v1_51
+  - first:
+      213: 5160977835212480742
+    second: monster-fast-walk-2x2-v1_52
+  - first:
+      213: -2003647449878640611
+    second: monster-fast-walk-2x2-v1_53
+  - first:
+      213: -7485671380460310297
+    second: monster-fast-walk-2x2-v1_54
+  - first:
+      213: -811335473453253735
+    second: monster-fast-walk-2x2-v1_55
+  - first:
+      213: 4783707034080644976
+    second: monster-fast-walk-2x2-v1_56
+  - first:
+      213: 202157537351673346
+    second: monster-fast-walk-2x2-v1_57
+  - first:
+      213: 3479443433413802540
+    second: monster-fast-walk-2x2-v1_58
+  - first:
+      213: 5355620169961321886
+    second: monster-fast-walk-2x2-v1_59
+  - first:
+      213: -2809816226838078199
+    second: monster-fast-walk-2x2-v1_60
+  - first:
+      213: 3638337543059746326
+    second: monster-fast-walk-2x2-v1_61
+  - first:
+      213: -6670934868417046716
+    second: monster-fast-walk-2x2-v1_62
+  - first:
+      213: 6177420110383365959
+    second: monster-fast-walk-2x2-v1_63
+  - first:
+      213: -352588503397794311
+    second: monster-fast-walk-2x2-v1_64
+  - first:
+      213: -7852707333754289074
+    second: monster-fast-walk-2x2-v1_65
+  - first:
+      213: 1783356647411089993
+    second: monster-fast-walk-2x2-v1_66
+  - first:
+      213: -5727885147018320518
+    second: monster-fast-walk-2x2-v1_67
+  - first:
+      213: 6274659082204177335
+    second: monster-fast-walk-2x2-v1_68
+  - first:
+      213: 7385463866522464066
+    second: monster-fast-walk-2x2-v1_69
+  - first:
+      213: -1260829847374916107
+    second: monster-fast-walk-2x2-v1_70
+  - first:
+      213: 2752203251739442516
+    second: monster-fast-walk-2x2-v1_71
+  - first:
+      213: 9097170073395955703
+    second: monster-fast-walk-2x2-v1_72
+  - first:
+      213: -760518967710895642
+    second: monster-fast-walk-2x2-v1_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-fast-walk-2x2-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6110acfd882f6a740800000000000000
+      internalID: 5163080692510884118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fast-walk-2x2-v1_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 627
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dd3ec2428498180800000000000000
+      internalID: -9112673050798334606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fast-walk-2x2-v1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea930d00425d3f170800000000000000
+      internalID: 8211140896235731374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-fast-walk-2x2-v1_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 627
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56df3ecb34ee9ec0800000000000000
+      internalID: -3558155710061619617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2e7ed56c9c0833a4ab6327cdbc64ed8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":627.0,"y":627.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      monster-fast-walk-2x2-v1_0: 5163080692510884118
+      monster-fast-walk-2x2-v1_1: -9112673050798334606
+      monster-fast-walk-2x2-v1_2: 8211140896235731374
+      monster-fast-walk-2x2-v1_3: -3558155710061619617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
